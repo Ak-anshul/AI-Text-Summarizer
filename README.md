@@ -52,3 +52,7 @@ Fine-Tuning the LLM: If you’re working with domain-specific content, you can f
 # Extensibility
 
 The AI Text Summarizer can be extended to handle summarization tasks for YouTube video transcripts, making it an excellent tool for content creators and video reviewers who want to quickly extract the main points from lengthy video content.
+
+# License
+
+This project is licensed under the MIT License.
